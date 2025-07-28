@@ -1,0 +1,9 @@
+supabase
+cryptography
+pandas
+gradio
+requests
+jinja2
+weasyprint
+python-dotenv
+openai
